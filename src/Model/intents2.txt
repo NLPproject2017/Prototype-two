@@ -1,0 +1,34 @@
+@relation intent
+
+@attribute classs {0,1,2,3}
+@attribute Text string
+
+
+@data
+0,"Can you please book a taxi for me from here to there"
+0,"I want a taxi tomorrow at 9 to go to the city"
+0,"I need a cab to go to the airport"
+0,"Book a taxi for tomorrow morning"
+0,"get a car for me"
+0,"I want to go to the airport"
+0,"i need to go by car"
+0,"call a cab"
+0,"call a taxi"
+0,"I need to be there now"
+0,"can you get a car for me"
+1,"I want to go by train to the station"
+1,"I need a ticket to Oslo"
+1,"take the express to the airport"
+1,"do you like to travel by rail"
+1,"reserve a seat on the train to Athens"
+1,"book a ticket with a windowseat to go to kopenhagen"
+1,"check if there are any tickets for the train tomorrow"
+2,"who are you"
+2,"hello"
+2,"what are you doing"
+2,"hello friend"
+2,"welcome home"
+3,"goodbye"
+3,"see you soon"
+3,"goodbye old friend"
+
